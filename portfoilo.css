@@ -1,0 +1,7 @@
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+}
+.banner.profile picture{
+    width:500px
+}
